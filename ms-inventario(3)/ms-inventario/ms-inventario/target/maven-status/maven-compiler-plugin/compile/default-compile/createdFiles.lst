@@ -1,0 +1,7 @@
+com\example\ms_inventario\Controller\StockController.class
+com\example\ms_inventario\Exception\GlobalExceptionHandler.class
+com\example\ms_inventario\Repository\StockRepository.class
+com\example\ms_inventario\Dto\StockDTO.class
+com\example\ms_inventario\MsInventarioApplication.class
+com\example\ms_inventario\Model\Stock.class
+com\example\ms_inventario\Service\StockService.class

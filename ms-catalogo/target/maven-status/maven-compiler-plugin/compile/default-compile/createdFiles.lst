@@ -1,0 +1,10 @@
+com\example\ms_catalogo\Model\Producto.class
+com\example\ms_catalogo\Model\Categoria.class
+com\example\ms_catalogo\Exception\GlobalExceptionHandler.class
+com\example\ms_catalogo\Controller\CatalogoController.class
+com\example\ms_catalogo\MsCatalogoApplication.class
+com\example\ms_catalogo\Repository\CategoriaRepository.class
+com\example\ms_catalogo\Service\CatalogoService.class
+com\example\ms_catalogo\Dto\CategoriaDTO.class
+com\example\ms_catalogo\Repository\ProductoRepository.class
+com\example\ms_catalogo\Dto\ProductoDTO.class
